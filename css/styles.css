@@ -79,9 +79,15 @@ p {
 
 /* Title Section */
 
-#title .container-fluid {
-  padding: 3% 15% 7%;
-  text-align: left;
+/* So that it doesn't get aligned to left in all screens */
+
+@media (min-width: 991.20px) {
+
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+  }
+
 }
 
 /* Title Image */
