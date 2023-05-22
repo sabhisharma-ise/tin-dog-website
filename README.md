@@ -7,7 +7,7 @@ This repository contains the source code for a dating website for dogs.
 To get started, you will need to clone this repository to your local machine. You can do this using the following command:
 
 ```
-git clone https://github.com/<your-username>/tindog.git
+git clone https://github.com/<your-username>/TinDog-website.git
 ```
 
 
